@@ -1,2 +1,2 @@
 # cywhfe.github.io
-github person blog info.
+Personal blog.
